@@ -1,7 +1,7 @@
 *---------------------------------------------------------------------*
-*    program for:   TABLEPROC_YMM_MRP_PLT
+*    program for:   TABLEPROC_YMM_MRP_PLT_PARTS
 *---------------------------------------------------------------------*
-FUNCTION TABLEPROC_YMM_MRP_PLT         .
+FUNCTION TABLEPROC_YMM_MRP_PLT_PARTS         .
 
   PERFORM TABLEPROC.
 

@@ -1,7 +1,7 @@
 *---------------------------------------------------------------------*
-*    program for:   TABLEFRAME_YMM_MRP_PLT
+*    program for:   TABLEFRAME_YMM_MRP_PLT_PARTS
 *---------------------------------------------------------------------*
-FUNCTION TABLEFRAME_YMM_MRP_PLT        .
+FUNCTION TABLEFRAME_YMM_MRP_PLT_PARTS        .
 
   PERFORM TABLEFRAME TABLES X_HEADER X_NAMTAB DBA_SELLIST DPL_SELLIST
                             EXCL_CUA_FUNCT

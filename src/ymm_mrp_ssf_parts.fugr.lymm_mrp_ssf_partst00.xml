@@ -3,8 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>LYMM_MRP_PLTI00</NAME>
-    <SQLX>X</SQLX>
+    <NAME>LYMM_MRP_SSF_PARTST00</NAME>
     <DBAPL>S</DBAPL>
     <DBNA>D$</DBNA>
     <SUBC>I</SUBC>
